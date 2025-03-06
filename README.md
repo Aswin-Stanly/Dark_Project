@@ -5,11 +5,17 @@ The Dark Web Domain Analyzer (DWDA) is a Python-based OSINT (Open-Source Intelli
 It verifies whether a given .onion URL is active or inactive and provides real-time status updates with color-coded output for better readability.
 
 ✨ Features
+
 ✅ Checks if a .onion domain is active or inactive
+
 ✅ Color-coded status messages for readability
+
 ✅ Error handling for invalid inputs
+
 ✅ User-friendly interface with simple prompts
+
 ✅ Option to check multiple domains in one session
+
 
 📌 Installation
 
