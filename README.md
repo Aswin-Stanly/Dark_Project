@@ -20,12 +20,15 @@ It verifies whether a given .onion URL is active or inactive and provides real-t
 📌 Installation
 
 1️⃣ Install Dependencies
+
 Make sure you have Python 3.x installed. Then, install the required libraries:
 
 pip install requests colorama
 
 2️⃣ Install Tor & Set Up Proxy
+
 Since .onion domains are only accessible via the Tor network, you must install and run the Tor service.
+
 For Linux:
 
 sudo apt update && sudo apt install tor -y
@@ -33,7 +36,9 @@ sudo apt update && sudo apt install tor -y
 Start Tor:
 
 sudo systemctl start tor
+
 sudo systemctl enable tor
+
 sudo systemctl status tor
 
 In Kali Linux
