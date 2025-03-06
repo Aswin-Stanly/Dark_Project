@@ -12,6 +12,7 @@ It verifies whether a given .onion URL is active or inactive and provides real-t
 ✅ Option to check multiple domains in one session
 
 📌 Installation
+
 1️⃣ Install Dependencies
 Make sure you have Python 3.x installed. Then, install the required libraries:
 
